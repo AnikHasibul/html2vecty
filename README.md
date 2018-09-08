@@ -16,7 +16,7 @@ go install -v github.com/anikhasibul/html2vecty
 ```
 
 # Usage
-Output of `html2vecty --help`
+From `html2vecty --help`
 
 ```txt
 html2vecty - A tool for transpiling html source code to vecty component!
@@ -51,8 +51,10 @@ Thank you!
 From https://github.com/dave/html2vecty
 
 # Authors
-@AnikHasibul (Maintainer and developer)
-@dave (Original creator)
+
+[Anik Hasibul | @AnikHasibul](https://github.com/AnikHasibul) (Maintainer and developer)
+
+[Dave Brophy | @dave](https://github.com/dave) (Original creator)
 
 # Contribution Guidelines
 
