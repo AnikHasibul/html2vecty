@@ -52,9 +52,9 @@ From https://github.com/dave/html2vecty
 
 # Authors
 
-[Anik Hasibul | @AnikHasibul](https://github.com/AnikHasibul) (Maintainer and developer)
+[Anik Hasibul  @AnikHasibul](https://github.com/AnikHasibul) (Maintainer and developer)
 
-[Dave Brophy | @dave](https://github.com/dave) (Original creator)
+[Dave Brophy  @dave](https://github.com/dave) (Original creator)
 
 # Contribution Guidelines
 
