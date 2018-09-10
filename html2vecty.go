@@ -395,7 +395,7 @@ var stringProps = map[string]string{
 func main() {
 	var in []byte
 	var err error
-	if len(os.Args) < 1 {
+	if len(os.Args) == 1 {
 		in, err = ioutil.ReadAll(os.Stdin)
 		if err != nil {
 			fmt.Fprintln(os.Stderr, err)
